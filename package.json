@@ -1,8 +1,5 @@
 {
-  "name": "media-balance-server",
-  "version": "1.0.0",
   "type": "module",
-  "engines": { "node": ">=18" },
   "dependencies": {
     "express": "^4.19.2",
     "pg": "^8.11.3",
@@ -12,4 +9,5 @@
     "start": "node server.js"
   }
 }
+
 
